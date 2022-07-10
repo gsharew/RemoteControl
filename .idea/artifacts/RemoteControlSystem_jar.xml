@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RemoteControlSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteControlSystem_jar</output-path>
+    <root id="archive" name="RemoteControlSystem.jar">
+      <element id="module-output" name="RemoteControlSystem" />
+    </root>
+  </artifact>
+</component>
